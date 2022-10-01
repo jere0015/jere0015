@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=jere0015&style=flat&color=brightgreen)
-
 <h1 align="center">Hi, I'm Jeremy 👋</h1>
 <h3 align="center">Software Developer from Denmark</h3>
 
