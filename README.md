@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jeremy 👋</h1>
 <h3 align="center">Software Developer from Denmark</h3>
-<p align="center">Check out my <a href="https://jere0015.github.io/">personal portfolio!</a></p>
+<p align="center">Check out my <a href="https://jeremy-dev-portfolio.vercel.app/">personal portfolio!</a></p>
 <p align="center">And check out my favourite repositories, <a href="https://github.com/jere0015/Exercitium">Exercitium</a> and <a href="https://github.com/jere0015/Translate-Project">Translate-Project</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jere0015&label=Profile%20views&color=0e75b6&style=flat" alt="jere0015" /> </p>
